@@ -5,7 +5,7 @@ var express = require('express'),
 
 
 app.set('port', process.env.PORT || 3300);
-app.set('views', __dirname + '/views');
+app.set('views', __dirname + '/app/views');
 app.use(express.logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded());

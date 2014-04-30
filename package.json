@@ -8,7 +8,7 @@
   },
   "author": "Gabor Raz",
   "dependencies" : {
-    "express" : "latest",
+    "express" : "3.4.8",
     "jade" : "1.0.0"
   },
   "devDependencies" : {
