@@ -31,7 +31,10 @@
     "grunt-contrib-handlebars": "~0.6.0",
     "grunt-contrib-cssmin": "~0.7.0",
     "hbsfy": "~1.0.0",
-    "grunt-shell-spawn": "~0.3.0"
+    "grunt-shell-spawn": "~0.3.0",
+    "mocha" : "*",
+    "should" : "*",
+    "supertest" : "*"
   	},
   "engines": {
     "node": "0.10.x"

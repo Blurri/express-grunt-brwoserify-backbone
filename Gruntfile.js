@@ -63,7 +63,7 @@ module.exports = function(grunt){
                 },
                 options: {
                     transform: ['hbsfy'],
-                    external: ['jquery', 'underscore', 'backbone', 'backbone.marionette']
+                    external: ['jquery', 'underscore', 'backbone']
                 }
             },
             test : {
